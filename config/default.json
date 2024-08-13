@@ -1,5 +1,4 @@
 {
   "mongoURI": "mongodb://127.0.0.1:27017/restaurant_pos",
-  "jwtSecret": "secret",
-  "ATLAS_URI": "mongodb+srv://falviolegros717:p3t7JxENtHAekwUu@posdatabase.gmged8k.mongodb.net/"
+  "jwtSecret": "secret"
 }
